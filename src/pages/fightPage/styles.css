@@ -1,0 +1,23 @@
+.page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.area {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    background-color: cadetblue;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    background-color: brown;
+}
